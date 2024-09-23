@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Arthur.
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning C and x64 Windows Assembly.
+<!--- 
 - ⚡ Fun fact: I had an appearance in 152 of the 207 episodes of the cult series King of Queens.
-<!--- - 💞️ I’m looking to collaborate on cool projects.
+- 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 --->
